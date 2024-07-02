@@ -1,0 +1,17 @@
+.bg-custum {
+	background: red;
+}
+
+body {
+	background: green;
+}
+
+.heading {
+	color: red;
+}
+
+.div-color{
+	background-image: linear-gradient(to right top, #bb303e, #c3266a, #b7379b, #8f54c9,
+		#126feb);
+	height:810px;
+}
